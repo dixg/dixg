@@ -7,9 +7,8 @@
 ### About Me
  I'm passionate about coding and building solutions for real-world scenarios. I am currently pursuing masters in Computer Science from California State University, East Bay. My past positions were in fintech, with duties at each company ranging from analytics to research and management. Slowly I drifted towards programming, and started from where I left after my computer science undergrad. I found my comfort in programming. To me, it's relaxing and thrilling at the same time.
 
-### Technology Domains: 
+### Tools and Technology: 
 Software Development Engneering | Web Development  
-
 
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
@@ -44,9 +43,6 @@ Software Development Engneering | Web Development
 [<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
 [<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
