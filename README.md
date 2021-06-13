@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+# Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/dixg/count.svg)
+
+![Dixika's GitHub stats](https://github-readme-stats.vercel.app/api?username=dixg&count_private=true&&show_icon=true&theme=monokai)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dixg&layout=compact)
+
 <!--
 **dixg/dixg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
