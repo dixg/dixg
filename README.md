@@ -18,7 +18,7 @@ Software Development Engneering | Web Development
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dixg&layout=compact)
 
-### Happy to connect @ 
+### Feel free to connect:  
 [LinkedIn](https://www.linkedin.com/in/dixika-grewal/) | [Twitter](https://twitter.com/DixikaGrewal)
 
 
