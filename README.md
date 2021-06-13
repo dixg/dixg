@@ -57,11 +57,6 @@ Software Development Engneering | Web Development
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dixg&layout=compact)
 
 ### Feel Free to Connect:  
-[<img align="left" alt="dgrewal" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="dgrewal | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="dgrewal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="dgrewal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dgrewal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [LinkedIn](https://www.linkedin.com/in/dixika-grewal/) | [Twitter](https://twitter.com/DixikaGrewal)
 
