@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi Peeps 👋
+###I'm Dixika Grewal an aspiring Software Developer, who is currently pursuing Computer Sceince masters from Cal State East Bay.
 
 # Visitor Count
 
