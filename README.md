@@ -1,10 +1,11 @@
-### Hi Peeps 👋
-### I'm Dixika Grewal, a Software Developer pursuing Masters in Computer Sceince from Cal State East Bay.
+## Hi Peeps 👋
+### 
+I'm Dixika Grewal, a Software Developer pursuing Masters in Computer Sceince from Cal State East Bay.
 
-<!-- ![girl_programmer](https://miro.medium.com/max/500/1*_wxwNuxszA6vwQIUMbF-fw.gif) -->![girl_programmer](https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif)
+![girl_programmer](https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif)
 
 ### About Me
- I'm passionate about coding and building solutions for real-world scenarios. I am currently pursuing masters in Computer Science from California State University, East Bay. My past positions were in fintech, with duties at each company ranging from analytics to research and management. Slowly I drifted towards programming, and started from where I left after my computer science undergrad. I found my comfort in programming. To me, it's relaxing and thrilling at the same time.
+I'm passionate about coding and building solutions for real-world scenarios. I am currently pursuing masters in Computer Science from California State University, East Bay. My past positions were in fintech, with duties at each company ranging from analytics to research and management. Slowly I drifted towards programming, and started from where I left after my computer science undergrad. I found my comfort in programming. To me, it's relaxing and thrilling at the same time.
 
 ### Tools and Technology: 
 Software Development Engneering | Web Development  
