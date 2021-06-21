@@ -1,4 +1,4 @@
-## Hi Peeps 👋
+# Hi Peeps 👋
 ### 
 I'm Dixika Grewal, a Software Developer pursuing Masters in Computer Sceince from Cal State East Bay.
 
@@ -7,11 +7,13 @@ I'm Dixika Grewal, a Software Developer pursuing Masters in Computer Sceince fro
 </p>
 
 
-### About Me
+## About Me
+###
 I'm passionate about coding and building solutions for real-world scenarios. I am currently pursuing masters in Computer Science from California State University, East Bay. My past positions were in fintech, with duties at each company ranging from analytics to research and management. Slowly I drifted towards programming, and started from where I left after my computer science undergrad. I found my comfort in programming. To me, it's relaxing and thrilling at the same time.
 
 
-### Tools and Technology: 
+## Tools and Technology: 
+###
 Software Development Engneering | Web Development  
 
 [<code>
@@ -58,7 +60,9 @@ Software Development Engneering | Web Development
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dixg&layout=compact)
 
 
-### Love to Connect: 
 
-[LinkedIn](https://www.linkedin.com/in/dixika-grewal/) | [Twitter](https://twitter.com/DixikaGrewal)
+## Love to Connect: 
+
+<a href="https://www.linkedin.com/in/dixika-grewal/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="100" alt="linkedin blue style logo png" /></a><a href="https://twitter.com/DixikaGrewal" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-company-png-logo-5.png" width="100" alt="twitter company png logo" /></a>
+
 
