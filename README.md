@@ -63,6 +63,6 @@ Software Development Engneering | Web Development
 
 ## Love to Connect: 
 
-<a href="https://www.linkedin.com/in/dixika-grewal/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="100" alt="linkedin blue style logo png" /></a><a href="https://twitter.com/DixikaGrewal" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-company-png-logo-5.png" width="100" alt="twitter company png logo" /></a>
+<a href="https://www.linkedin.com/in/dixika-grewal/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="75" alt="linkedin blue style logo png" /></a><a href="https://twitter.com/DixikaGrewal" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-company-png-logo-5.png" width="75" alt="twitter company png logo" /></a>
 
 
