@@ -9,7 +9,7 @@ I'm Dixika Grewal, a Software Developer pursuing Masters in Computer Sceince fro
 
 ## About Me
 ###
-I'm passionate about coding and building solutions for real-world scenarios. I am currently pursuing masters in Computer Science from California State University, East Bay. My past positions were in fintech, with duties at each company ranging from analytics to research and management. Slowly I drifted towards programming, and started from where I left after my computer science undergrad. I found my comfort in programming. To me, it's relaxing and thrilling at the same time.
+I'm love building solutions for real-world scenarios. I am currently pursuing masters in Computer Science from California State University, East Bay. Prior to Masters, I have worked as Data Analyst at Moody's and State Street for 3 years.
 
 
 ## Tools and Technology: 
