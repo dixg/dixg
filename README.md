@@ -1,6 +1,6 @@
 # Hi Peeps 👋
 ### 
-I'm Dixika Grewal, a Software Developer pursuing Masters in Computer Sceince from Cal State East Bay.
+I'm Dixika Grewal, a Software Developer pursuing Masters in Computer Sceince from California State University, East Bay.
 
 <p align="center">
 <img src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
