@@ -13,14 +13,16 @@ I love building solutions for real-world problems.
 
 ## Tools and Technology: 
 ###
-Software Development Engneering | Web Development  
+Software Development Engineering | Web Development  
 
 [<code>
 <img alt="visual studio code" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
+
 [<code>
 <img alt="javascript" width="40px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 [<code>
 <img alt="react" width="40px" src="https://img.icons8.com/color/240/000000/react-native.png" />
 </code>](https://reactjs.org/)
