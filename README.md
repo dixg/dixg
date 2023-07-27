@@ -1,6 +1,6 @@
 # Hi Peeps 👋
 ### 
-I'm Dixika Grewal, a Software Developer pursuing Masters in Computer Sceince from California State University, East Bay.
+I'm Dixika Grewal, a software developer pursuing master's in computer science from California State University, East Bay.
 
 <p align="center">
 <img src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
@@ -15,11 +15,7 @@ I love building solutions for real-world problems.
 ###
 Software Development Engineering | Web Development  
 
-## Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/dixg/count.svg)
-
-![Dixika's GitHub stats](https://github-readme-stats.vercel.app/api?username=dixg&count_private=true&&show_icon=true&theme=monokai)
+## Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dixg&layout=compact)
 
